@@ -1,0 +1,24 @@
+body {
+  background-color: #8E6E49;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+h1, h2 {
+  font-family: 'Roboto', sans-serif;
+  color: #0D3E22;
+
+}
+
+.cadre {
+  margin: 100px;
+  border: solid 4px #0D3E22;
+  width: 500px;
+  background-color: white;
+  padding: 30px;
+}
+
+.icon {
+  height: 30px;
+}
